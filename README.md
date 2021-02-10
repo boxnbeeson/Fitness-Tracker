@@ -1,5 +1,5 @@
 # Fitness Tracker
-  Fitness Tracker allows the user to log workouts they have completed, and add new workouts to the database.
+  Fitness Tracker allows the user to log workouts they have completed, and add new workouts to the database. (Discontinued Project)
   <br>
   https://jakes-fitness-tracker0.herokuapp.com/
   ## Table of Contents
