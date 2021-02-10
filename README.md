@@ -3,26 +3,10 @@
   <br>
   https://jakes-fitness-tracker0.herokuapp.com/
   ## Table of Contents
-  * [Demo](#demo)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [Testing](#testing)
   * [Developer's Information](#devInfo)
   * [Credientials](#credientials)
   * [License](#license)
-  
-  ## <a name="demo"></a>Demo
-  Demo will be created when application is completed.
-  ![](insert screenshots/gifs here)
-  ## <a name="installation"></a>Installation
-  App can be accessed through the livelink provided
-  ## <a name="usage"></a>Usage
-  
-  ## <a name="contributing"></a>Contributing
-  delete
-  ## <a name="testing"></a>Testing
-  delete
+ 
   ## <a name="devInfo"></a>Developer's Information
   Feel free to contact me using the information below if you have any questions or feedback!
   <br>
